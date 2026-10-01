@@ -20,6 +20,25 @@
 * **Data Processing** — Structured financial data handling
 * **Queue-Based Data Handling** — Market data stream processing
 
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+### Technologies & Concepts
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Twelve%20Data%20API-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UML-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Credit%20Risk%20Analysis-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data%20Processing-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Queue%20Based%20Processing-000000?style=for-the-badge" />
+</p>
 
 ---
 
