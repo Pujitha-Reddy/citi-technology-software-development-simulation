@@ -1,5 +1,26 @@
 # Citi Technology Software Development Job Simulation
 
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,api" />
+</p>
+
+### Technologies & Concepts
+
+* **Java** — Real-time market data collection
+* **Python** — Market data processing and visualization
+* **REST API** — External market data integration
+* **Twelve Data API** — Market price data source
+* **Pandas** — Data processing and analysis
+* **Matplotlib** — Time-series visualization
+* **UML** — System and state modeling
+* **System Design** — Technical architecture and workflow design
+* **Credit-Risk Analysis** — Risk modeling concepts
+* **Data Processing** — Structured financial data handling
+* **Queue-Based Data Handling** — Market data stream processing
+
+
 ---
 
 # Loan Management State Diagram
@@ -86,6 +107,19 @@ The Java application:
 
 The implementation was tested using Java 21.
 
+### Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
+
+- REST API
+- Twelve Data API
+- HTTP Requests
+- Queue Data Structure
+- Timestamped Market Data
+- Environment Variables
+
 ---
 
 # Market Data Visualization
@@ -130,22 +164,18 @@ The Python visualization:
 * Time-series data processing
 * Data visualization
 
----
+### Technologies
 
-# Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pandas,matplotlib" />
+</p>
 
-* Java
-* Python
-* REST API
-* Twelve Data API
-* Pandas
-* Matplotlib
-* UML
-* System Design
-* Credit-Risk Analysis
-* Data Processing
-* Queue-Based Data Handling
+- Regular Expressions
+- Time-Series Data Processing
+- Data Visualization
 
 ---
+
+
 
 
