@@ -1,8 +1,8 @@
-# Citi Technology Software Development Job Simulation
+# Citi Technology Software Development Simulation
 
 ---
 
-## Tech Stack
+# Tech Stack
 
 **Languages:** Java, Python
 **APIs:** REST API, Twelve Data API  
