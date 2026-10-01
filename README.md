@@ -42,6 +42,20 @@
 
 ---
 
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+**APIs:** REST API, Twelve Data API  
+**Data:** Pandas, Queue Data Structures, Time-Series Data  
+**Visualization:** Matplotlib  
+**Modeling:** UML, System Design  
+**Domain:** Credit-Risk Analysis
+
+---
+
 # Loan Management State Diagram
 
 The first task focused on modeling the lifecycle of a loan management system using a UML state diagram.
