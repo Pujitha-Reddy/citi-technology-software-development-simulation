@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Citi-logo.jpeg" alt="Citi" width="180"/>
+  <img src="citi.png" alt="citi" width="180"/>
 </p>
 
 <h1 align="center">Citi Technology Software Development Job Simulation</h1>
