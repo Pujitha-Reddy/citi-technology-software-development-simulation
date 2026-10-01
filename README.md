@@ -1,5 +1,11 @@
 # Citi Technology Software Development Simulation
 
+
+<p align="center">
+  <img src="citi-logo.png" alt="Citi Logo" width="180"/>
+</p>
+
+<h1 align="center">Citi Technology Software Development Job Simulation</h1>
 ---
 
 # Tech Stack
